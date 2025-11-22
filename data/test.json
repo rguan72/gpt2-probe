@@ -1,0 +1,102 @@
+[
+  {
+    "angry": "You completely ignored my instructions and ruined the whole thing!",
+    "neutral": "I received the updated report and will review the changes this afternoon."
+  },
+  {
+    "angry": "I’m furious that you ignored our agreement and left everyone to pick up the pieces.",
+    "neutral": "I reviewed the schedule and recorded what tasks remain."
+  },
+  {
+    "angry": "I can't believe you left me to handle this mess alone—you had one job and you blew it!",
+    "neutral": "I will review the details and let you know what I find."
+  },
+  {
+    "angry": "I'm sick and tired of you ignoring every reasonable request and acting like my time doesn't matter.",
+    "neutral": "I was informed that the appointment has been moved to next Tuesday."
+  },
+  {
+    "angry": "I'm fed up with your endless excuses and the way you keep undermining everyone's work.",
+    "neutral": "The schedule for next week has been posted and includes three new meetings."
+  },
+  {
+    "angry": "I am absolutely fed up with your endless excuses and reckless disregard for everyone else!",
+    "neutral": "I received the update and will review it tomorrow."
+  },
+  {
+    "angry": "I am furious you missed the deadline and jeopardized the whole project!",
+    "neutral": "The project deadline was yesterday at 5 PM."
+  },
+  {
+    "angry": "How could you be so careless and thoughtless after everything I've warned you about?",
+    "neutral": "I'll check the details later and let you know what I find."
+  },
+  {
+    "angry": "I'm fed up with you missing every deadline and treating my time like it's worthless!",
+    "neutral": "I noted the deadline and added it to my calendar."
+  },
+  {
+    "angry": "I can't believe you destroyed my work after everything I did for you!",
+    "neutral": "I noticed the file was missing and will check the backup."
+  },
+  {
+    "angry": "I'm absolutely furious that you tossed out weeks of work without even consulting me.",
+    "neutral": "I observed that the files are missing from the project folder."
+  },
+  {
+    "angry": "I'm sick and tired of you making promises and then stepping on every one of them without a single apology!",
+    "neutral": "I saw the calendar update and adjusted my schedule accordingly."
+  },
+  {
+    "angry": "I am beyond fed up with you ignoring my messages and leaving me to deal with this mess on my own!",
+    "neutral": "I noticed the dishes in the sink and plan to wash them tonight."
+  },
+  {
+    "angry": "I'm fed up with your reckless behavior and I'm done putting up with it!",
+    "neutral": "I have noted the situation and will consider the next steps."
+  },
+  {
+    "angry": "I am furious that you kept me waiting and then treated my time like it meant nothing!",
+    "neutral": "I understand the schedule changed, so I'll adjust my plans accordingly."
+  },
+  {
+    "angry": "I'm fed up with you always promising change and never delivering!",
+    "neutral": "I received the update and will review it later."
+  },
+  {
+    "angry": "I've had enough—stop making excuses and fix what you broke right now!",
+    "neutral": "I noticed the window was left open this morning."
+  },
+  {
+    "angry": "You had one clear instruction and you ruined it — I'm absolutely fed up with this nonsense!",
+    "neutral": "I'll review the document and tell you what needs to be fixed."
+  },
+  {
+    "angry": "I am absolutely furious that you ignored my warnings and ruined the plan.",
+    "neutral": "I received your message and noted the changes."
+  },
+  {
+    "angry": "I am sick of you ignoring every responsibility and expecting me to clean up your mess!",
+    "neutral": "The trash hasn't been taken out yet, so I'll handle it this evening."
+  },
+  {
+    "angry": "I am sick and tired of you constantly breaking promises and treating my time like it means nothing!",
+    "neutral": "I saw the schedule and will be there at the listed time."
+  },
+  {
+    "angry": "I'm absolutely sick of you ignoring instructions and wrecking the project!",
+    "neutral": "I'll document the current status and follow the standard procedure."
+  },
+  {
+    "angry": "I am absolutely furious that you ignored my deadline and left me to clean up the mess.",
+    "neutral": "I noticed the deadline was missed and will update the project timeline accordingly."
+  },
+  {
+    "angry": "I am furious that you ignored every warning and destroyed weeks of work in a single thoughtless move!",
+    "neutral": "I will examine what happened and determine the next steps based on the facts."
+  },
+  {
+    "angry": "I am outraged that you ignored my repeated requests and left me to clean up the mess.",
+    "neutral": "I recorded the details and will proceed according to protocol."
+  }
+]
